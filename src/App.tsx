@@ -1,8 +1,8 @@
-import React from 'react'
+import { TodoMain } from "./pages"
 
 const App = () => {
   return (
-    <div>App</div>
+    <TodoMain />
   )
 }
 
